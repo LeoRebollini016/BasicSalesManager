@@ -1,0 +1,59 @@
+# Compilados binarios
+bin/
+obj/
+
+# Archivos de paquetes NuGet
+*.nupkg
+*.snupkg
+packages/
+
+
+# Archivos de configuración de usuario
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Archivos de caché de Visual Studio
+.vs/
+.vscode/
+
+# Archivos de configuración de build
+*.vcxproj.user
+*.vcproj.*.user
+*.dbmdl
+
+# Carpetas de publicación
+publish/
+out/
+
+# Logs
+*.log
+
+# Archivos de respaldo temporales
+*~
+*.bak
+*.tmp
+*.old
+
+# Archivos de configuración local
+app.config
+web.config
+
+# Thumbs y sistema
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Archivos de test result
+TestResults/
+*.VisualState.xml
+
+# Archivos de Rider/JetBrains (si usás otro IDE)
+.idea/
+*.sln.iml
+
+# Archivos de lock y restore
+project.lock.json
+project.fragment.lock.json
+artifacts/
